@@ -53,12 +53,6 @@ Got ideas or want to contribute? Feel free to open issues or submit pull request
 
 ---
 
-## 📄 License
-
-This project is open source. See the [LICENSE](./LICENSE) file for details.
-
----
-
 ## ✨ About
 
 Mark-it was created to serve as a digital "second brain" — helping you build a personal knowledge library from the content that inspires, educates, or entertains you.
