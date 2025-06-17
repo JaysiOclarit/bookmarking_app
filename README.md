@@ -37,7 +37,9 @@ We’ve all been there: you find a valuable article, a thought-provoking podcast
 
 ## 📷 Screenshots
 
-> _[Insert images or GIFs of your UI, if available]_  
+![Screenshot 2024-11-28 030954](https://github.com/user-attachments/assets/00a5e1dc-dada-402d-95f0-e2f0a26813d1)
+
+
 
 ---
 
