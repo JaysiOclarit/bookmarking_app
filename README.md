@@ -38,16 +38,17 @@ We’ve all been there: you find a valuable article, a thought-provoking podcast
 ## 📷 Screenshots
 
 ![Screenshot 2024-11-28 030954](https://github.com/user-attachments/assets/00a5e1dc-dada-402d-95f0-e2f0a26813d1)
+![image](https://github.com/user-attachments/assets/28389eeb-8687-4def-bd51-c1b38e2f4a2a)
+![image](https://github.com/user-attachments/assets/130e527d-c5ee-4c19-87c5-a4249fa60ae0)
+![image](https://github.com/user-attachments/assets/3068c1d5-4c81-4578-8b80-897a36e373fd)
+![image](https://github.com/user-attachments/assets/ba1a001b-4288-47e9-b44e-0b306d4c87ee)
+![image](https://github.com/user-attachments/assets/07b6d3de-4afd-4827-9118-e5a45166e5ff)
+
 
 
 
 ---
 
-## 🧪 Installation & Setup
-
-> Coming soon...
-
----
 
 ## 🤝 Contributing
 
